@@ -17,6 +17,7 @@ The car uses an ultrasonic sensor to measure the distance to objects in front of
 5. The sensor scans the left and right directions using a servo motor.
 6. The measured distances are compared.
 7. The car turns toward the more suitable direction.
+8. If both sides are blocked, the car moves backwards before changing direction.
 
 ## Hardware
 
